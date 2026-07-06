@@ -32,13 +32,13 @@ This project analyzes the Titanic dataset using Python to explore passenger info
 ## Sample Visualizations
 
 ### Age Distribution
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](age_distribution.png)
 
 ### Survival by Gender
-![Survival by Gender](images/survival_by_gender.png)
+![Survival by Gender](survival_by_gender.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ##  Author
 Abdelrahman Ashraf
